@@ -58,17 +58,8 @@ Basic-Chatbot/
 └── README.md
 
 
+### Output
 
-## Sample Conversation
-
-
-=================================
-
-      Welcome to My 
-      
-Type 'bye' to exit the chat
-
-=================================
 
 You: hello
 
