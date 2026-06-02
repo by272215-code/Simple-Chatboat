@@ -63,20 +63,27 @@ Basic-Chatbot/
 
 
 =================================
-      Welcome to My Chatbot
+
+      Welcome to My 
+      
 Type 'bye' to exit the chat
+
 =================================
 
 You: hello
+
 Bot: Hi! Nice to meet you.
 
 You: how are you
+
 Bot: I'm fine, thanks for asking!
 
 You: what is your name
+
 Bot: My name is SimpleBot.
 
 You: bye
+
 Bot: Goodbye! Have a great day.
 
 
